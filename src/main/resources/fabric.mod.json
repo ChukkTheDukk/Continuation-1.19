@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "continuation",
+	"version": "${version}",
+
+	"name": "Continuation",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"ChukkTheDukk"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT License",
+	"icon": "assets/continuation/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.chukkthedukk.continuation.Continuation"
+		],
+		"client": [
+			"net.chukkthedukk.continuation.ContinuationClient"
+		]
+	},
+	"mixins": [
+		"continuation.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.19",
+		"minecraft": "~1.19",
+		"java": ">=17",
+		"fabric": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
