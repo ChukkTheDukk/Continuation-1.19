@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "continuation:platinum_ore",
+    "continuation:deepslate_platinum_ore",
+    "continuation:platinum_block",
+    "continuation:raw_platinum_block"
+  ]
+}

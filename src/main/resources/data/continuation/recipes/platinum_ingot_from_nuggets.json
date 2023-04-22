@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "platinum",
+  "key": {
+    "#": {
+      "item": "continuation:platinum_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "continuation:platinum_ingot"
+  }
+}

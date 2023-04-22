@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "platinum",
+  "ingredients": [
+    {
+      "item": "continuation:raw_platinum_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "continuation:raw_platinum"
+  }
+}

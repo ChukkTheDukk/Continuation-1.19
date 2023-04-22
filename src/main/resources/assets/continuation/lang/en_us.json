@@ -1,0 +1,15 @@
+{
+  "item.continuation.raw_platinum": "Raw Platinum",
+  "item.continuation.platinum_ingot": "Platinum Ingot",
+  "item.continuation.platinum_nugget": "Platinum Nugget",
+
+  "block.continuation.platinum_block": "Block of Platinum",
+  "block.continuation.raw_platinum_block": "Block of Raw Platinum",
+  "block.continuation.platinum_ore": "Platinum Ore",
+  "block.continuation.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.continuation.cooking_pot": "Cooking Pot",
+
+
+
+  "itemGroup.continuation.continuation": "Continuation"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "PPP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "continuation:raw_platinum"
+    }
+  },
+  "result": {
+    "item": "continuation:raw_platinum_block"
+  }
+}
